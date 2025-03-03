@@ -1,0 +1,20 @@
+.DS_Store
+.hyperexecute/
+.updatedhyperexecute.yaml
+concierge
+concierge.exe
+logs/
+nucleus.log
+artifacts
+cucumber_context.json
+hyperexecuteupdate
+LT
+LT.exe
+.env
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
